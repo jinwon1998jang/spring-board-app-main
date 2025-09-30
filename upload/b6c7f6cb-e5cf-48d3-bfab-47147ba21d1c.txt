@@ -1,0 +1,7 @@
+<table>에 있는 border="1"은 테이블의 테두리(경계선)를 1픽셀 두께로 표시
+
+<tr>: Table Row (테이블 행)
+
+<th>: Table Header (테이블 제목)
+
+<td>: Table Data (테이블 데이터)
